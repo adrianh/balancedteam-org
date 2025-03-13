@@ -1,2 +1,4 @@
 # balancedteam-org
-balancedteam.org website
+
+Source for the balancedteam.org website.
+
