@@ -37,4 +37,17 @@ outputFormats:
     mediaType: application/rss+xml
     baseName: feed
 menu:
-  main: []
+  main:
+    - name: Home
+      url: /
+      weight: 10
+    - name: Blog
+      url: /blog-posts/
+      weight: 20
+    - name: "Balanced Team History"
+      url: /balanced-team-history/
+      weight: 30
+    - name: Join Our Google Group
+      url: http://groups.google.com/group/balancedteam
+      weight: 40
+
