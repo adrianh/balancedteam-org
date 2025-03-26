@@ -4,6 +4,15 @@ date: "2010-07-23T05:13:17+00:00"
 guid: https://balancedteam.org/?page_id=2
 title: Welcome!
 url: /
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+  socialIcons:
+    - name: "kofi"
+      url: "https://kofi.com"
+    - name: "x"
+      url: "https://x.com"
 
 ---
 [![Group photo Balanced Team Summit 2015](/wp-content/uploads/2010/07/BTGR2015-group-labeled.png)](/wp-content/uploads/2010/07/BTGR2015-group-labeled.png)
