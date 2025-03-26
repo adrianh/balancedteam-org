@@ -15,7 +15,7 @@ params:
   showBreadCrumbs: true
   showCodeCopyButtons: true
   ShowFullTextinRSS: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   comments: false
   hideFooter: false
   assets:
