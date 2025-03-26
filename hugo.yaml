@@ -14,11 +14,15 @@ params:
   showToc: false
   showBreadCrumbs: true
   showCodeCopyButtons: true
+  ShowFullTextinRSS: true
+  ShowRssButtonInSectionTermList: true
   comments: false
-  hideFooter: true
+  hideFooter: false
   assets:
     favicon: /favicon.ico
     disableHLJS: true
+  label:
+    text: "Balanced Team"
 markup:
   highlight:
     codeFences: true
@@ -31,7 +35,7 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON
+    - JSON # necessary for search
 outputFormats:
   RSS:
     mediaType: application/rss+xml
