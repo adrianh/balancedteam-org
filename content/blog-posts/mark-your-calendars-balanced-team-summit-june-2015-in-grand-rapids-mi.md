@@ -1,5 +1,5 @@
 ---
-author: brittany.hunter
+author: Brittany Hunter
 category:
   - events
 date: "2014-06-15T22:33:15+00:00"

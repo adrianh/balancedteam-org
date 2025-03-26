@@ -1,5 +1,5 @@
 ---
-author: courtney
+author: Courtney Hemphill
 category:
   - events
 date: "2014-04-30T17:36:14+00:00"

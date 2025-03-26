@@ -1,5 +1,5 @@
 ---
-author: andersramsay
+author: Anders Ramsay
 category:
   - articles
 date: "2010-12-13T21:40:11+00:00"

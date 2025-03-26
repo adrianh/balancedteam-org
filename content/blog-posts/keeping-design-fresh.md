@@ -1,5 +1,5 @@
 ---
-author: chrisjones
+author: Chris Jones
 category:
   - events
 date: "2011-03-06T05:14:47+00:00"

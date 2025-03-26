@@ -1,5 +1,5 @@
 ---
-author: andersramsay
+author: Anders Ramsay
 date: "2011-09-28T01:08:40+00:00"
 guid: https://balancedteam.org/?page_id=342
 title: 2011 Conference Resources

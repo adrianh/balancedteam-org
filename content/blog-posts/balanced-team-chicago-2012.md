@@ -1,5 +1,5 @@
 ---
-author: moseshohman
+author: Moses Hohman
 category:
   - events
 date: "2012-03-03T00:07:10+00:00"

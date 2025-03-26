@@ -1,5 +1,5 @@
 ---
-author: lanehalley
+author: Lane Halley
 category:
   - resources
 date: "2012-07-05T18:08:55+00:00"

@@ -1,5 +1,5 @@
 ---
-author: lanehalley
+author: Lane Halley
 category:
   - events
 date: "2015-01-15T23:20:11+00:00"

@@ -1,5 +1,5 @@
 ---
-author: spencer
+author: Spencer Turner
 category:
   - events
 date: "2015-12-18T10:19:44+00:00"

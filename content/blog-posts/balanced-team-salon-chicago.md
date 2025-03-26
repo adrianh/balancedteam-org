@@ -1,5 +1,5 @@
 ---
-author: Christopher
+author: Christopher Wilkinson
 category:
   - events
 date: "2015-04-24T21:20:27+00:00"

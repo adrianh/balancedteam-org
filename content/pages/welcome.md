@@ -1,5 +1,5 @@
 ---
-author: lanehalley
+author: Lane Halley
 date: "2010-07-23T05:13:17+00:00"
 guid: https://balancedteam.org/?page_id=2
 title: Welcome!

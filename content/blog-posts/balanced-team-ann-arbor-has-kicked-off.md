@@ -1,5 +1,5 @@
 ---
-author: blapensee
+author: Beth LaPensee
 category:
   - events
 date: "2016-04-07T18:37:41+00:00"

@@ -1,5 +1,5 @@
 ---
-author: chrisjones
+author: Chris Jones
 category:
   - articles
 date: "2010-12-23T20:46:45+00:00"

@@ -1,5 +1,5 @@
 ---
-author: alexa
+author: Alexa Roman
 category:
   - techniques
 date: "2014-02-10T05:08:05+00:00"

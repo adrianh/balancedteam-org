@@ -1,5 +1,5 @@
 ---
-author: Audrey
+author: Audrey Wu
 category:
   - events
 date: "2015-04-23T23:45:45+00:00"

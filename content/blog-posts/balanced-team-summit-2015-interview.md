@@ -1,5 +1,5 @@
 ---
-author: fletcher
+author: Matt Fletcher
 category:
   - events
 date: "2015-02-26T19:45:04+00:00"

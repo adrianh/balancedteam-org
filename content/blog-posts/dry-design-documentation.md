@@ -1,5 +1,5 @@
 ---
-author: ianmcfarland
+author: Ian McFarland
 category:
   - techniques
 date: "2011-04-01T01:54:11+00:00"

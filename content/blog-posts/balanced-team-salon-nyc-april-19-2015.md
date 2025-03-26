@@ -1,5 +1,5 @@
 ---
-author: RickW
+author: Rick Winslow
 category:
   - events
 date: "2015-01-26T19:29:11+00:00"

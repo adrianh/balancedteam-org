@@ -1,5 +1,5 @@
 ---
-author: craigvillamor
+author: Craig Villamor
 category:
   - techniques
 date: "2011-01-07T06:48:58+00:00"

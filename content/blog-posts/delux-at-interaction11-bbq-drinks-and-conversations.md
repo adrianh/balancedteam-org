@@ -1,5 +1,5 @@
 ---
-author: johannakollmann
+author: Johanna Kollmann
 category:
   - events
 date: "2011-02-15T21:49:44+00:00"

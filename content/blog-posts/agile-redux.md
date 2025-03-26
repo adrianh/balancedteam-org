@@ -1,5 +1,5 @@
 ---
-author: moseshohman
+author: Moses Hohman
 category:
   - articles
 date: "2010-12-20T05:50:05+00:00"

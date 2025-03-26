@@ -1,5 +1,5 @@
 ---
-author: lanehalley
+author: Lane Halley
 category:
   - articles
 date: "2011-03-07T19:53:08+00:00"

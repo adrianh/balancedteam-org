@@ -1,5 +1,5 @@
 ---
-author: andersramsay
+author: Anders Ramsay
 category:
   - events
 date: "2011-07-22T09:39:00+00:00"

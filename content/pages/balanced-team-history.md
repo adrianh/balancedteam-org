@@ -1,5 +1,5 @@
 ---
-author: lanehalley
+author: Lane Halley
 date: "2012-06-22T19:30:20+00:00"
 guid: https://balancedteam.org/?page_id=477
 title: Balanced Team History

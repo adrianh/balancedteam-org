@@ -1,5 +1,5 @@
 ---
-author: adrianhoward
+author: Adrian Howard
 category:
   - events
 date: "2013-06-15T18:54:57+00:00"

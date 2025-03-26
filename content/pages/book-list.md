@@ -1,5 +1,5 @@
 ---
-author: zachlarson
+author: Zach Larson
 date: "2011-04-12T03:02:49+00:00"
 guid: https://balancedteam.org/
 title: Book List
