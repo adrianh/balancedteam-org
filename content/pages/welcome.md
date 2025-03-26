@@ -25,14 +25,5 @@ We hold larger events (like the [Balanced Team Summit 2015](/btgr2015/)) once a 
 
 - [Balanced Team California](http://www.meetup.com/balancedteam-CA/)
 - [Balanced Team New York](http://www.meetup.com/balancedteam-NY/)
-- Balanced Team London
+- [Balanced Team London](https://balancedteam.london)
 
-## Keep in touch!
-
-Sign up for our announce-only events mailing list to get advance notice and discounts for Balanced Team events.
-
-Subscribe to our mailing list
-
-Join our Slack channel
-
-https://btslack.herokuapp.com/
