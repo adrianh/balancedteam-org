@@ -12,7 +12,7 @@ params:
   showShareButtons: false
   showReadingTime: true
   showToc: false
-  showBreadCrumbs: true
+  showBreadCrumbs: false
   showCodeCopyButtons: true
   ShowFullTextinRSS: true
   ShowRssButtonInSectionTermList: false
@@ -23,6 +23,16 @@ params:
     disableHLJS: true
   label:
     text: "Balanced Team"
+  socialIcons:
+    - name: "flickr"
+      url: "https://www.flickr.com/groups/balancedteam/"
+    - name: "slideshare"
+      url: "https://www.slideshare.net/balancedteam"
+    - name: "twitter"
+      url: "https://twitter.com/balancedteam"
+    - name: "vimeo"
+      url: "https://vimeo.com/balancedteam"
+
 markup:
   highlight:
     codeFences: true
