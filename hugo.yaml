@@ -23,6 +23,10 @@ params:
     disableHLJS: true
   label:
     text: "Balanced Team"
+  fuseOpts: # see https://www.fusejs.io/api/options.html
+    ignoreDiacritics: true
+    threshold: 0.0
+    ignoreLocation: true
   socialIcons:
     - name: "flickr"
       url: "https://www.flickr.com/groups/balancedteam/"
@@ -52,16 +56,19 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: Home
+    - name: "Home"
       url: /
       weight: 10
-    - name: Blog
+    - name: "Blog"
       url: /blog-posts/
       weight: 20
     - name: "Balanced Team History"
       url: /balanced-team-history/
       weight: 30
-    - name: Join Our Google Group
-      url: http://groups.google.com/group/balancedteam
+    - name: "Search"
+      url: /search/
       weight: 40
+    - name: "Join Our Google Group"
+      url: http://groups.google.com/group/balancedteam
+      weight: 50
 
